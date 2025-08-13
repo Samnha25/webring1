@@ -1,22 +1,22 @@
 [
     {
-        "title": "Max Böck",
-        "url": "https://mxb.dev/",
-        "feed": "https://mxb.dev/feed.xml"
+        "title": "",
+        "url": "",
+        "feed": ""
     },
     {
-        "title": "Manuel Matuzovic",
-        "url": "https://www.matuzo.at/",
-        "feed": "https://www.matuzo.at/feed.xml"
+        "title": "",
+        "url": "",
+        "feed": ""
     },
     {
-        "title": "Charlie Owen",
-        "url": "https://www.sonniesedge.net/",
+        "title": "",
+        "url": "",
         "feed": null
     },
     {
-        "title": "Björn Ganslandt",
-        "url": "https://ganslandt.xyz/",
+        "title": "",
+        "url": "",
         "feed": null
     },
     {
@@ -45,8 +45,8 @@
         "feed": "https://mhitza.github.io/atom.xml"
     },
     {
-        "title": "Rings around the Internet",
-        "url": "https://fanlistings.nickifaulk.com/webrings/",
+        "title": "",
+        "url": "",
         "feed": null
     }
 ]
